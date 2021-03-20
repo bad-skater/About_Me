@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Avengers</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-03-20T20:07:18.084Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Tony Stark</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>scAvenger Hunt</title>
+    <link href="http://example.com/2021/03/19/hello-world/"/>
+    <id>http://example.com/2021/03/19/hello-world/</id>
+    <published>2021-03-20T00:24:44.151Z</published>
+    <updated>2021-03-20T20:07:18.084Z</updated>
+    
+    <content type="html"><![CDATA[<p>Tony Stark in a drunken stupor hid the credentials for the system somewhere on this website. Can you look help jarvis in retrieving them?<br> Sometimes what you want it is right infront of you. All you have to do is open your eyes and see it. Can you see Dave_flag[blabla] ? :P </p><p>Don’t tell this to anyone but the flag name starts with Dave_flag</p><p>Paying attention to small details makes all the difference.<br>Goodluck ~~~</p><h2 id="One-of-these-will-help-you-in-your-quest-for-glory-Million-Dollar-Question-which-one"><a href="#One-of-these-will-help-you-in-your-quest-for-glory-Million-Dollar-Question-which-one" class="headerlink" title="One of these will help you in your quest for glory!!! Million Dollar Question - which one?"></a>One of these will help you in your quest for glory!!! Million Dollar Question - which one?</h2><h3 id="Is-it-this-one…"><a href="#Is-it-this-one…" class="headerlink" title="Is it this one….."></a>Is it this one…..</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Grep can be an extremely powerful weapon <span class="keyword">if</span> you know how to wield the sword.</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://en.wikipedia.org/wiki/Grep">Grep</a></p><h3 id="or-this-one…"><a href="#or-this-one…" class="headerlink" title="or this one….."></a>or this one…..</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Inspect the <span class="built_in">source</span> code of this webpage.</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://en.wikipedia.org/wiki/Web_development_tools#JavaScript_debugging">Inspect Element</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Tony Stark in a drunken stupor hid the credentials for the system somewhere on this website. Can you look help jarvis in retrieving them?</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
