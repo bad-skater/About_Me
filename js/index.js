@@ -1,8 +1,8 @@
 /**
- * Main JS file for Casper behaviours
+ * Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
  */
 
-/* globals jQuery, document */
+/* Hulk_flag[abcabcabcabcabcabcabcabcabcabc] */
 (function ($, undefined) {
     "use strict";
 
@@ -22,7 +22,11 @@
 
     });
 
-    // Arctic Scroll by Paul Adam Davis
+    // Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+    // Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+    // Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+    // Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+    // Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
     // https://github.com/PaulAdamDavis/Arctic-Scroll
     $.fn.arctic_scroll = function (options) {
 

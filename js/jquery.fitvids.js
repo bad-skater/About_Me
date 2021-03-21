@@ -1,11 +1,11 @@
 /*global jQuery */
 /*jshint browser:true */
 /*!
-* FitVids 1.1
+* Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
 *
-* Copyright 2013, Chris Coyier - http://css-tricks.com + Dave Rupert - http://daverupert.com
-* Credit to Thierry Koblentz - http://www.alistapart.com/articles/creating-intrinsic-ratios-for-video/
-* Released under the WTFPL license - http://sam.zoy.org/wtfpl/
+* Hulk_flag[abcabcabcabcabcabcabcabcabcabc] - http://css-tricks.com + Dave Rupert - Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+* Credit to Thierry Koblentz - Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+* Released under the WTFPL license -Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
 *
 */
 
@@ -46,7 +46,7 @@
       }
 
       var $allVideos = $(this).find(selectors.join(','));
-      $allVideos = $allVideos.not("object object"); // SwfObj conflict patch
+      $allVideos = $allVideos.not("object object"); // Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
 
       $allVideos.each(function(){
         var $this = $(this);
@@ -63,5 +63,83 @@
       });
     });
   };
-// Works with either jQuery or Zepto
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
 })( window.jQuery || window.Zepto );
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+// Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
