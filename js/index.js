@@ -1,8 +1,8 @@
 /**
- * Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+ * Hulk_flag{abcabcabcabcabcabcabcabcabcabc}
  */
 
-/* Hulk_flag[abcabcabcabcabcabcabcabcabcabc] */
+/* Hulk_flag{abcabcabcabcabcabcabcabcabcabc} */
 (function ($, undefined) {
     "use strict";
 
@@ -22,11 +22,11 @@
 
     });
 
-    // Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
-    // Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
-    // Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
-    // Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
-    // Hulk_flag[abcabcabcabcabcabcabcabcabcabc]
+    // Hulk_flag{abcabcabcabcabcabcabcabcabcabc}
+    // Hulk_flag{abcabcabcabcabcabcabcabcabcabc}
+    // Hulk_flag{abcabcabcabcabcabcabcabcabcabc}
+    // Hulk_flag{abcabcabcabcabcabcabcabcabcabc}
+    // Hulk_flag{abcabcabcabcabcabcabcabcabcabc}
     // https://github.com/PaulAdamDavis/Arctic-Scroll
     $.fn.arctic_scroll = function (options) {
 
